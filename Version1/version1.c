@@ -3,7 +3,7 @@
 * @brief Programme snake version 1
 * @author Esmeralda MARTIN
 * @version version 1
-* @date 27/TAILLE/2024
+* @date 27/10/2024
 *
 * Programme snake, version 1, serpent de taille TAILLE qui avance uniquement vers la droite
 * le programme s'arrete quand la touche 'a' est pressee
