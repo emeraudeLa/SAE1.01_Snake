@@ -14,5 +14,5 @@ Ce projet est individuel, donc développé entièrement par moi-même.
 - **Version 1 :** Serpent de taille 10 qui avance uniquement vers la droite
 - **Version 2 :** L’utilisateur peut changer la direction du serpent grâce aux touches zqsd
 - **Version 3 :** Le serpent ne peut plus se rentrer dedans, obstacles sur le plateau
-- **Version 4 :** Le serpent doit manger des pommes, téléporteurs sur les côtés du plateau
+- **Version 4 :** Le serpent doit manger des pommes, téléporteurs sur les côtés du plateau, documentation doxygen
 - **Version 5 :** Evaluation individuelle faites en classe, changements léger à faire sur le code
