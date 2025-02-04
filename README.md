@@ -15,4 +15,4 @@ Ce projet est individuel, donc développé entièrement par moi-même.
 - **Version 2 :** L’utilisateur peut changer la direction du serpent grâce aux touches zqsd
 - **Version 3 :** Le serpent ne peut plus se rentrer dedans, obstacles sur le plateau
 - **Version 4 :** Le serpent doit manger des pommes, téléporteurs sur les côtés du plateau, documentation doxygen
-- **Version 5 :** Evaluation individuelle faites en classe, changements léger à faire sur le code
+- **Version 5 :** Evaluation individuelle faite en classe, changements léger fait sur le code
